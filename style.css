@@ -170,10 +170,17 @@ section {
 }
 
 .section__pic-container {
+ 
   display: flex;
   height: 400px;
   width: 400px;
   margin: auto 0;
+}
+.profile-image{
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+
 }
 
 .section__text {
