@@ -11,7 +11,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills_name">HTML</h3>
-                        <spam className="skills_level">Expert</spam>
+                        <span className="skills_level">Expert</span>
                     </div>
                 </div>
                 <div className="skills_data">
@@ -19,7 +19,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills_name">CSS</h3>
-                        <spam className="skills_level">Advanced</spam>
+                        <span className="skills_level">Advanced</span>
                     </div>
                 </div>
                 <div className="skills_data">
@@ -27,7 +27,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills_name">JavaScript</h3>
-                        <spam className="skills_level">Advanced</spam>
+                        <span className="skills_level">Advanced</span>
                     </div>
                 </div>
                 
@@ -39,7 +39,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills_name">Bootstrap</h3>
-                        <spam className="skills_level">Intermediate</spam>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
                 <div className="skills_data">
@@ -47,7 +47,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills_name">React</h3>
-                        <spam className="skills_level">Intermediate</spam>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
                 <div className="skills_data">
@@ -55,7 +55,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills_name">Git</h3>
-                        <spam className="skills_level">Intermediate</spam>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
                 

@@ -11,7 +11,7 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills_name">Python</h3>
-                        <spam className="skills_level">Advanced</spam>
+                        <span className="skills_level">Advanced</span>
                     </div>
                 </div>
                 <div className="skills_data">
@@ -19,7 +19,7 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills_name">MYSQL</h3>
-                        <spam className="skills_level">Intermediate</spam>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
                 <div className="skills_data">
@@ -27,7 +27,7 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills_name">Node Js</h3>
-                        <spam className="skills_level">Intermediate</spam>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
                 
@@ -39,7 +39,7 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills_name">Java</h3>
-                        <spam className="skills_level">Intermediate</spam>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
                 <div className="skills_data">
@@ -47,7 +47,7 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills_name">Firebase</h3>
-                        <spam className="skills_level">Intermediate</spam>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
                 <div className="skills_data">
@@ -55,7 +55,7 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills_name">PHP</h3>
-                        <spam className="skills_level">Basic</spam>
+                        <span className="skills_level">Basic</span>
                     </div>
                 </div>
                 

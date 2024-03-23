@@ -21,10 +21,10 @@ const Services = () => {
             </h3>
           </div>
 
-          <spam className="services_button" onClick={() => toggleTab(1)}>
+          <span className="services_button" onClick={() => toggleTab(1)}>
             View More
             <i className="uil uil-arrow-right services_button-icon"></i>
-          </spam>
+          </span>
 
           <div
             className={
@@ -87,10 +87,10 @@ const Services = () => {
             </h3>
           </div>
 
-          <spam onClick={() => toggleTab(2)} className="services_button">
+          <span onClick={() => toggleTab(2)} className="services_button">
             View More
             <i className="uil uil-arrow-right services_button-icon"></i>
-          </spam>
+          </span>
 
           <div className={toggleState === 2 ? "services_modal active-modal":"services_modal"}>
             <div className="services_modal-content">
@@ -143,10 +143,10 @@ const Services = () => {
             </h3>
           </div>
 
-          <spam  onClick={() => toggleTab(3)} className="services_button">
+          <span  onClick={() => toggleTab(3)} className="services_button">
             View More
             <i className="uil uil-arrow-right services_button-icon"></i>
-          </spam>
+          </span>
 
           <div className={toggleState === 3 ? "services_modal active-modal":"services_modal"}>
             <div className="services_modal-content">

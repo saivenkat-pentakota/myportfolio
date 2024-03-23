@@ -7,7 +7,7 @@ const Skills = () => {
   return (
     <section className="skills section" id="skills">
         <h2 className="section_title">Skills</h2>
-        <spam className="section_subtitle">my Technical Level</spam>
+        <span className="section_subtitle">my Technical Level</span>
 
         <div className="skills_container container grid">
             <Frontend/>
